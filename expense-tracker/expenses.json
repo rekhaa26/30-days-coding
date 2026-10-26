@@ -1,0 +1,22 @@
+[
+    {
+        "amount": 200.0,
+        "category": "Food",
+        "date": "2026-10-26"
+    },
+    {
+        "amount": 150.0,
+        "category": "Travel",
+        "date": "2026-10-26"
+    },
+    {
+        "amount": 200.0,
+        "category": "Food",
+        "date": "2026-10-26"
+    },
+    {
+        "amount": 150.0,
+        "category": "Travel",
+        "date": "2026-10-26"
+    }
+]
